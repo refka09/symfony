@@ -1,1 +1,2 @@
-# symfony
+# Symfony
+Beginner Symfony Exercise
